@@ -8,7 +8,13 @@ const lista = [item1, item2]
 const perguntas = [
 {
 responda com sim ou não:
-1. você acredita que a intelig
+1. você acredita que a inteligência artificial pode facilitar a vida das pessoas?
+sim 
+não
+2. você já acessou algum site que usa IA para responder perguntas?
+sim 
+não 
+
 
 
 
