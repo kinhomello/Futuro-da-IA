@@ -14,6 +14,7 @@ não
 2. você já acessou algum site que usa IA para responder perguntas?
 sim 
 não 
+12
 
 
 
